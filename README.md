@@ -9,7 +9,8 @@ The goal of this project is to predict whether a student will be **Placed** or *
 
 - **Domain:** Machine Learning / Data Science  
 - **Project Title:** Student Placement Prediction using XGBoost  
-- **Intern Name:** Aquib Zakir Ahmad  
+- **Intern Name:** Aquib Zakir Ahmad
+- **Intern ID:** IP-11105  
 - **Internship Program:** IAC Internship Program  
 - **Project Duration:** 24-12-2025 to 31-01-2026  
 - **Methodology:** Waterfall Model (Requirement → Planning → Design → Development → Testing → Deployment → Closure)
