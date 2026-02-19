@@ -296,9 +296,9 @@ test_preds = baseline_xgb.predict(test_scaled)
 output = test_df.copy()
 output["Predicted Placement Status"] = pd.Series(test_preds).map({1: "Placed", 0: "Not placed"})
 
-output.to_excel("baseline_placement_predictions.xlsx", index=False)
+output.to_excel("placement_predictions.xlsx", index=False)
 
-print("Exported: baseline_placement_predictions.xlsx")
+print("Exported: placement_predictions.xlsx")
 output.head()
 
 """# ✅ Conclusion
